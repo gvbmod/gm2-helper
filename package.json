@@ -1,0 +1,25 @@
+{
+  "name": "gm2helperv2",
+  "version": "1.0.0",
+  "description": "The helper for the roku extension and for any other extension that needs the helper.",
+  "main": "index.js",
+  "scripts": {
+    "build": "electron-builder .",
+    "start": "electron ."
+  },
+  "pkg": {
+    "scripts": "./src",
+    "outputPath": "packaged"
+  },
+  "author": "Gvbvdxx",
+  "license": "MIT",
+  "dependencies": {
+    "@electron/remote": "*",
+    "http": "*",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "electron": "*",
+    "electron-builder": "^24.13.3"
+  }
+}
