@@ -1,0 +1,14 @@
+  ____  ___ ___   ___   ___    __ __    ___  _      ____   ___  ____  
+ /    ||   |   | /   \ |   \  |  |  |  /  _]| |    |    \ /  _]|    \ 
+|   __|| _   _ ||     ||    \ |  |  | /  [_ | |    |  o  )  [_ |  D  )
+|  |  ||  \_/  ||  O  ||  D  ||  _  ||    _]| |___ |   _/    _]|    / 
+|  |_ ||   |   ||     ||     ||  |  ||   [_ |     ||  | |   [_ |    \ 
+|     ||   |   ||     ||     ||  |  ||     ||     ||  | |     ||  .  \
+|___,_||___|___| \___/ |_____||__|__||_____||_____||__| |_____||__|\_|
+                                                                      
+																	 
+The program was started successfully, you can now load the extension in
+your web browser.
+
+For the first time loading, you will get a popup asking you to allow the app
+to create an internet server.

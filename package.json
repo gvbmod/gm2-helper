@@ -1,0 +1,31 @@
+{
+  "name": "gm2-helper",
+  "productName": "Gvbvdxx Mod 2 Device Connect",
+  "version": "1.0.0",
+  "description": "A background process to let you connect various network devices. Also known as GM2Helper.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . --devmode",
+    "build": "electron-builder --ia32"
+  },
+  "author": "Gvbvdxx",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.0",
+	"electron-builder": "^24.13.3"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "ws": "^8.18.0"
+  },
+  "build": {
+    "appId": "gvbvdxx.scratch.mod.2.helper.1.5.app",
+    "fileAssociations": [],
+    "nsis": {
+      "perMachine": false,
+      "oneClick": false,
+      "installerSidebar": "./installer/banner.bmp",
+      "uninstallerSidebar": "./installer/banner.bmp"
+    }
+  }
+}
